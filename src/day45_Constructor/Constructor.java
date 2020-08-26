@@ -33,7 +33,7 @@ public class Constructor {
 
         ArrayList<Integer> list2 = new ArrayList<>(list1);
         System.out.println(list2);
-        */
+        *//
 
 
     }
